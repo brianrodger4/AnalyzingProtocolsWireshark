@@ -16,4 +16,3 @@ valuable tools whether you’re trying to figure out who sent a package, how big
 it came from and the IP address associated with it. Altogether, this lab introduced the functionality of 
 Wireshark, giving plenty of reasons to believe in its usefulness regarding cybersecurity. <br />
 <br />
-I have also provided a document on how to read wireshark logs.
